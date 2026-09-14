@@ -69,7 +69,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="text-base font-light leading-7 text-muted-foreground sm:text-lg sm:leading-8">
-            I build automation systems and data infrastructure end-to-end  {" "}
+            I build automation systems and data infrastructure end-to-end with {" "}
             <span className="inline items-center gap-2 align-middle">
               {skills.map((skill) => (
                 <span
