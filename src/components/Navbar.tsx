@@ -26,11 +26,11 @@ const Navbar = () => {
     <nav
       className="fixed top-4 left-1/2 -translate-x-1/2 z-50 flex w-auto max-w-[90%] items-center justify-between gap-4 rounded-full border border-dashed border-white/10 bg-background/30 px-6 py-3 shadow-lg backdrop-blur-xl"
     >
-      <div className="flex h-10 w-full items-center justify-between gap-1 px-2">
+      <div className="flex h-10 w-full items-center justify-between gap-4 px-2">
         <Link
           to="/"
           onClick={() => setIsOpen(false)}
-          className="shrink-0 text-lg font-normal tracking-normal text-foreground sm:text-xl hover:opacity-80 transition-opacity"
+          className="shrink-0 text-lg font-normal tracking-normal text-foreground sm:text-xl hover:opacity-40 transition-opacity"
           style={{ fontFamily: "Amsterdam Handwriting" }}
         >
           @Sameerkhan
