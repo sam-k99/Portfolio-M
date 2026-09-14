@@ -13,7 +13,7 @@ const App = () => {
   return (
     <div className="min-h-screen text-foreground flex flex-col relative">
       <div className="relative z-10 flex flex-col flex-1">
-        <main className="pt-15 mx-auto flex w-full max-w-3xl flex-col gap-20 px-6 pb-6 sm:gap-20 sm:pb-20 overflow-hidden">
+        <main className="pt-10 mx-auto flex w-full max-w-3xl flex-col gap-20 px-6 pb-6 sm:gap-20 sm:pb-20 overflow-hidden">
           <Hero />
           <FadeIn>
             <SkillSection />
