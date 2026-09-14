@@ -30,7 +30,7 @@ const Navbar = () => {
         <Link
           to="/"
           onClick={() => setIsOpen(false)}
-          className="shrink-0 text-lg font-normal tracking-normal text-foreground sm:text-xl hover:opacity-40 transition-opacity"
+          className="shrink-0 text-lg font-normal tracking-normal text-foreground sm:text-xl hover:opacity-80 transition-opacity"
           style={{ fontFamily: "Amsterdam Handwriting" }}
         >
           @Sameerkhan
