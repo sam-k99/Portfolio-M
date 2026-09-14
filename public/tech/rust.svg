@@ -1,0 +1,21 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rust-grad" x1="12" y1="9" x2="36" y2="39" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F0B37E"/>
+      <stop offset="1" stop-color="#B74C31"/>
+    </linearGradient>
+  </defs>
+  <circle cx="24" cy="24" r="17" fill="#1F1B18"/>
+  <circle cx="24" cy="24" r="11" fill="url(#rust-grad)"/>
+  <circle cx="24" cy="24" r="4.5" fill="#1F1B18"/>
+  <g fill="#F0B37E">
+    <rect x="22.5" y="4" width="3" height="7" rx="1.5"/>
+    <rect x="22.5" y="37" width="3" height="7" rx="1.5"/>
+    <rect x="37" y="22.5" width="7" height="3" rx="1.5"/>
+    <rect x="4" y="22.5" width="7" height="3" rx="1.5"/>
+    <rect x="33.9" y="8.4" width="3" height="7" rx="1.5" transform="rotate(45 33.9 8.4)"/>
+    <rect x="11.1" y="32.6" width="3" height="7" rx="1.5" transform="rotate(45 11.1 32.6)"/>
+    <rect x="32.6" y="33.9" width="3" height="7" rx="1.5" transform="rotate(135 32.6 33.9)"/>
+    <rect x="8.4" y="11.1" width="3" height="7" rx="1.5" transform="rotate(135 8.4 11.1)"/>
+  </g>
+</svg>

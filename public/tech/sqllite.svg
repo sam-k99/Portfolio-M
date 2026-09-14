@@ -1,0 +1,15 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sqlite-grad" x1="12" y1="9" x2="36" y2="39" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#B9E4FF"/>
+      <stop offset="1" stop-color="#2D8CDB"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="24" cy="12.5" rx="13.5" ry="5.5" fill="url(#sqlite-grad)"/>
+  <path d="M10.5 12.5V31.5C10.5 34.5376 16.5376 37 24 37C31.4624 37 37.5 34.5376 37.5 31.5V12.5" fill="url(#sqlite-grad)"/>
+  <ellipse cx="24" cy="12.5" rx="13.5" ry="5.5" fill="#DFF3FF"/>
+  <ellipse cx="24" cy="12.5" rx="10.2" ry="3.8" fill="#2D8CDB"/>
+  <path d="M10.5 20C10.5 23.0376 16.5376 25.5 24 25.5C31.4624 25.5 37.5 23.0376 37.5 20" stroke="#DFF3FF" stroke-width="1.5" opacity="0.55"/>
+  <path d="M10.5 26C10.5 29.0376 16.5376 31.5 24 31.5C31.4624 31.5 37.5 29.0376 37.5 26" stroke="#DFF3FF" stroke-width="1.5" opacity="0.55"/>
+  <path d="M10.5 12.5V31.5C10.5 34.5376 16.5376 37 24 37C31.4624 37 37.5 34.5376 37.5 31.5V12.5" stroke="#2D8CDB" stroke-width="1.5"/>
+</svg>
