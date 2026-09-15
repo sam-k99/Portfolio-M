@@ -69,7 +69,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="text-base font-light leading-7 text-muted-foreground sm:text-lg sm:leading-8">
-            I like creating automated systems,data pipeline and specialised in {" "}
+            I like creating automated systems, data pipeline and specialised in {" "}
             <span className="inline items-center gap-2 align-middle">
               {skills.map((skill) => (
                 <span
