@@ -34,9 +34,10 @@ const Hero = () => {
             />
           </div>
           <div className="flex h-full flex-col justify-center gap-2 sm:gap-3">
-            <h1 className="flex items-center gap-2 whitespace-nowrap text-2xl font-normal tracking-tight text-foreground sm:text-2xl md:text-3xl">
-              <span>Sameer Khan</span>
-              <span className="shrink-0">
+            <h1 className="flex flex-col items-center sm:flex-row sm:items-center gap-0 sm:gap-2 text-2xl font-normal tracking-tight text-foreground sm:text-2xl md:text-3xl">
+              <span>Sameer</span>
+              <span className="flex items-center gap-2 whitespace-nowrap">
+                Khan
                 <BadgeCheck color="currentColor" fill="#3b82f6" size={24} />
               </span>
             </h1>
