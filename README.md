@@ -1,14 +1,9 @@
 <div align="center">
-
-
-
-
 # Portfolio
-
 A modern personal portfolio built with React, Vite, and TypeScript. This project features a floating liquid-glass navbar, dynamic GitHub activity tracking via secure serverless APIs, and a blog section.
-
-
 </div>
+
+
 **Live at:** [https://sameer-khan.xyz](https://sameer-khan.xyz)
 
 ---
@@ -122,7 +117,7 @@ This project is configured for seamless deployment on Vercel.
 
 
 
-### Credit- /CharanMunur
+#### Credit- /CharanMunur
 
 
 <div align="center">
