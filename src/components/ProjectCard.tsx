@@ -14,9 +14,9 @@ const ProjectCard = ({ name, imgSrc, description, techStack, liveLink, githubLin
       tabIndex={0}
       onClick={() => navigate(slug)}
       onKeyDown={(e) => e.key === "Enter" && navigate(slug)}
-      className="group flex flex-col gap-2 bg-card border border-dashed border-border/80 p-1.5 rounded-xl w-full overflow-hidden hover:bg-muted/20 transition-all duration-200 cursor-pointer"
+      className="group flex flex-col gap-2 bg-background/30 backdrop-blur-xl border border-dashed border-white/10 shadow-lg p-1.5 rounded-xl w-full overflow-hidden hover:bg-background/40 transition-all duration-200 cursor-pointer"
     >
-      <div className="group/image rounded-lg overflow-hidden border border-border/80 bg-muted/30">
+      <div className="group/image rounded-lg overflow-hidden border border-white/10 bg-background/20">
         <img
           src={imgSrc}
           alt={name}
@@ -36,7 +36,7 @@ const ProjectCard = ({ name, imgSrc, description, techStack, liveLink, githubLin
         ))}
       </div>
 
-      <div className="w-full h-px bg-border mt-2 mb-1" />
+      <div className="w-full h-px bg-white/10 mt-2 mb-1" />
 
       <div className="flex items-center justify-between mt-1 px-2 pb-2">
         <a
