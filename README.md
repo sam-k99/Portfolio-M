@@ -6,7 +6,7 @@ A modern personal portfolio built with React, Vite, and TypeScript. This project
 </div>
 
 
-**Live at:** [https://sameer-khan.xyz](https://sameer-khan.xyz)
+**Live at:** [sameer-khan.xyz](https://sameer-khan.xyz)
 
 ---
 
@@ -119,7 +119,7 @@ This project is configured for seamless deployment on Vercel.
 
 
 
-#### Credit- /CharanMunur
+###### Credit- /CharanMunur
 
 
 <div align="center">
