@@ -34,4 +34,10 @@ export const socials: SocialLink[] = [
     icon: "/social/leetcode.svg",
     href: "https://leetcode.com/",
   },
+  {
+    name: "Medium",
+    icon: "/social/medium.svg",
+    href: "https://medium.com/@rugalass",
+  },
+
 ];
