@@ -127,6 +127,6 @@ This project is configured for seamless deployment on Vercel.
 
 <div align="center">
 
-  ### Thanks for visting 
+  ### Thanks for visiting 
 
 </div>
