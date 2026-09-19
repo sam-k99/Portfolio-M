@@ -1,0 +1,15 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gtk4-grad" x1="10" y1="8" x2="38" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7EC8FF"/>
+      <stop offset="1" stop-color="#2B7CD3"/>
+    </linearGradient>
+  </defs>
+  <rect x="6.5" y="6.5" width="35" height="35" rx="10" fill="url(#gtk4-grad)"/>
+  <rect x="13" y="13" width="8" height="8" rx="2" fill="#FFFFFF"/>
+  <rect x="27" y="13" width="8" height="8" rx="2" fill="#FFFFFF" opacity="0.96"/>
+  <rect x="13" y="27" width="8" height="8" rx="2" fill="#FFFFFF" opacity="0.92"/>
+  <rect x="27" y="27" width="8" height="8" rx="2" fill="#FFFFFF" opacity="0.88"/>
+  <path d="M24 18.5V29.5" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" opacity="0.85"/>
+  <path d="M18.5 24H29.5" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" opacity="0.85"/>
+</svg>
