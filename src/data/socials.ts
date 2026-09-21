@@ -32,7 +32,7 @@ export const socials: SocialLink[] = [
     name: "Medium",
     icon: "/social/medium.svg",
     darkIcon: "/social/medium-dark.svg",
-    href: "https://medium.com/@rugalass",
+    href: "https://medium.com/@void_sam",
   },
 
 ];
