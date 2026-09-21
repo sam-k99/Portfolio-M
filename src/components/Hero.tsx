@@ -65,7 +65,7 @@ const Hero = () => {
           <h1 className="max-w-full text-[1.7rem] font-normal tracking-tight leading-tight sm:text-[2.05rem] md:text-[2.15rem]">
             Data Engineer -{" "}
             <span className="text-[0.95em] font-light text-muted-foreground sm:text-[0.96em]">
-              Yep, that's boring.
+              Yep, that sounds boring.
             </span>
           </h1>
           <p className="text-base font-light leading-7 text-muted-foreground sm:text-lg sm:leading-8">
