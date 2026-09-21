@@ -220,7 +220,7 @@ Building an anomaly engine is not just about training a model. It requires orche
   title: "From Messy CSV to Boardroom Insights: A Complete E-Commerce Analytics Case Study",
   description: "Analyzing over one million transactions for ShopSmart: the complete journey from raw data cleaning to boardroom-ready insights, including campaign evaluation with seasonality controls, customer segmentation, and cross-selling opportunities.",
   tags: ["E-Commerce", "Analytics", "RFM Segmentation", "Data Cleaning", "Python", "Pandas", "Business Intelligence"],
-  date: "2026-09-13",
+  date: "2026-09-20",
   readTime: "6 min read",
   content: `This article documents the complete journey of analyzing over one million transactions for ShopSmart, an online retailer. This will cover not just the insights but the specific technical obstacles encountered and how to solve them.
 
