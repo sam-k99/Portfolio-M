@@ -164,7 +164,7 @@ Run docker compose up. You now have a fully containerized enterprise LLM Gateway
     description:
       "Fraud detection is broken. Most companies rely on batch processing or static rules that hackers can easily bypass. Here's how to build a real-time streaming pipeline paired with an autonomous agent that catches bots in milliseconds and filters out false positives.",
     tags: ["Kafka", "Machine Learning", "LangGraph", "FastAPI"],
-    date: "2026-09-13",
+    date: "2026-09-02",
     readTime: "4 min read",
     content: `Fraud detection is broken. Most companies rely on batch processing, meaning they analyze yesterday's data today. By the time a fraudulent transaction or a bot attack is detected, the money is already gone. The alternative is static rules, like blocking a user if they make five requests a minute. Hackers easily bypass static rules by setting their bots to four requests a minute.
 
@@ -220,7 +220,7 @@ Building an anomaly engine is not just about training a model. It requires orche
   title: "From Messy CSV to Boardroom Insights: A Complete E-Commerce Analytics Case Study",
   description: "Analyzing over one million transactions for ShopSmart: the complete journey from raw data cleaning to boardroom-ready insights, including campaign evaluation with seasonality controls, customer segmentation, and cross-selling opportunities.",
   tags: ["E-Commerce", "Analytics", "RFM Segmentation", "Data Cleaning", "Python", "Pandas", "Business Intelligence"],
-  date: "2026-09-20",
+  date: "2026-09-08",
   readTime: "6 min read",
   content: `This article documents the complete journey of analyzing over one million transactions for ShopSmart, an online retailer. This will cover not just the insights but the specific technical obstacles encountered and how to solve them.
 
@@ -331,7 +331,7 @@ Please consider giving a star on GitHub if you like this project.`
   title: "Enable GitHub 2FA with KeePass: A Privacy-Focused Alternative",
   description: "Ditch cloud-synced authenticators like Authy, Microsoft, or Bitwarden. Learn how to use KeePass for GitHub 2FA to keep your TOTP codes completely offline, free, and entirely under your control.",
   tags: ["GitHub", "KeePass", "Cybersecurity", "2FA", "Privacy", "TOTP", "Open Source"],
-  date: "2024-05-20",
+  date: "2026-09-22",
   readTime: "4 min read",
   content: `GitHub pushes you toward Authy, Microsoft Authenticator, and Bitwarden when setting up two-factor authentication (2FA). But these "convenient" options come with hidden privacy trade-offs.
 
