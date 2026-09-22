@@ -325,7 +325,7 @@ Each chart answers "so what?" without requiring verbal explanation.
 All charts are saved as PNGs and can be used directly in presentations without re-running code. The \`Data/\` folder is excluded from Git tracking via sparse checkout to protect sensitive information and maintain repository performance.
 
 Please consider giving a star on GitHub if you like this project.`
- }
+ },
 
 {
   title: "Enable GitHub 2FA with KeePass: A Privacy-Focused Alternative",
@@ -424,6 +424,6 @@ GitHub doesn't heavily advertise manual TOTP setup because they prefer you use s
 4. **Backup codes are mandatory.** Always store recovery codes securely offline to prevent catastrophic lockouts.
 
 GitHub’s default suggestions prioritize convenience and data collection over privacy. KeePass is the privacy-focused, ownership-focused alternative. It’s free, it’s simple, and it keeps your security entirely in your hands.`
-}
+},
 
 ];
