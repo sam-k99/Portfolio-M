@@ -5,6 +5,11 @@ import { Button } from "@/components/ui/button";
 import { ChevronRight } from "lucide-react";
 
 const BlogSection = () => {
+  // sorts blogs by date (newest first) and takes the top 2
+  const recentBlogs = [...blogs]
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+    .slice(0, 2);
+
   return (
     <section id="blogs" className="w-full space-y-6">
       <div className="flex gap-3">
@@ -13,7 +18,7 @@ const BlogSection = () => {
         </p>
       </div>
       <div className="flex flex-col gap-4">
-        {blogs.slice(0, 1).map((blog) => (     // this only shows 1 latest blong on home page
+        {recentBlogs.map((blog) => (
           <BlogCard key={blog.title} {...blog} />
         ))}
       </div>
