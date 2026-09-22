@@ -19,7 +19,7 @@ export const quotes: Quote[] = [
   { text: "Seven minutes. Seven minutes is all I can spare to play with you.", author: "Albert Wesker (Resident Evil 5)" },
   { text: "If all on Olympus will deny me my vengeance, then all on Olympus will die.", author: "Kratos (God of War)" },
   { text: "Fate only binds you if you let it. Do what is necessary. Not because it is written.", author: "Kratos (God of War: Ragnarök)" },
-  { text: "Conflict is in our blood. We can't deny it. I was born on the battlefield…… And I'll die on the battlefield.", author: "The Boss (Metal Gear Solid 3)" }
+  { text: "Conflict is in our blood. We can't deny it. I was born on the battlefield…… And I'll die on the battlefield.", author: "The Boss (Metal Gear Solid 3)" },
   { text: "War. War never changes.", author: "Narrator (Fallout Series)" },
   { text: "The right man in the wrong place can make all the difference in the world.", author: "G-Man (Half-Life 2)" },
   { text: "It’s easy to forget what a sin is in the middle of a battlefield.", author: "Big Boss (Metal Gear Solid 3: Snake Eater)" },
