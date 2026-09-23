@@ -710,7 +710,7 @@ const Stats = () => {
       </div>
 
       <GitHubActivity
-        username="sam-k99"
+        username="voidd-sam"
         cellSize={11}
         months={12}
         className="w-full"
