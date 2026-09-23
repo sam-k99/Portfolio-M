@@ -20,27 +20,6 @@ export type OpenSourceProject = {
 
 export const openSourceProjects: OpenSourceProject[] = [
   {
-    name: "Impala",
-    slug: "impala",
-    logoLight: "/images/opensource/impala3.png",
-    logoDark: "/images/opensource/impala3.png",
-    link: "https://github.com/sam-k99/s",
-    description: "A TUI wifi manager for linux/arch ",
-    prs: [
-      {
-        id: "69",
-        title: "feature: Visual graph ",
-        description: "Feature: It shows min, avg, max speed with graph and how long wifi is connected to devices",
-        link: "https://github.com/sam-k99/wi-tui",
-
-        status: "Merged",
-        date: "Aug 2026",
-      }
-    ],
-    issues: [],
-  },
-
-  {
     name: "GM Hyprland",
     slug: "gmhyprland",
     logoLight: "/images/opensource/hyprland.png",
